@@ -1,2 +1,2 @@
 # Coursera_Capstone
-Here's my capstone space for my Coursera course.
+Hello there. This is a space for my Coursera Capstone course. Let's create something awesome!
